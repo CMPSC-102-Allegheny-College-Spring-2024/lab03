@@ -6,7 +6,7 @@
 # Run command
 
 ``` bash
-poetry run csvfiler --name myname --ghhandle myHandle --favfilm myfilm --favsong mysong --favfood myFood`
+poetry run csvfiler --name myname --ghhandle myHandle --favfilm myfilm --favsong mysong --favfood myFood
 ```
 
 ## Sample Output
