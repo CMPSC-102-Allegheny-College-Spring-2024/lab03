@@ -6,7 +6,7 @@ authors = ["Oliver Bonham-Carter <obonhamcarter@allegheny.edu>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
 typer = "^0.9.0"
 rich = "^13.7.0"
 black = "^24.1.1"
